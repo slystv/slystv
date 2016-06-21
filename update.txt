@@ -1,1 +1,1 @@
-slystv&1.0.1&解决了一些问题&https://github.com/slystv/slystv/edit/master/slystv.apk
+slystv&1.0.1&解决了一些问题&https://github.com/slystv/slystv/blob/master/slystv.apk
